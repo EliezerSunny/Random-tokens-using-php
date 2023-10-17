@@ -9,6 +9,6 @@ for ($i = 0; $i < 4; $i++) {
 echo $randomIntegers;
 echo "\n";
 
-// $randomIntegers now contains an array of 4 random 4-digit integers
+// $randomIntegers now contains an array of 4 random 4-digit integers.
 
 ?>
